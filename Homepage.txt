@@ -1,0 +1,4 @@
+step 1:user view the home page of the application
+step 2:user click on the search bar and search mobiles
+step 3:user is integrate to mobiles page
+step 4:user is click on iphone and click on the add to cart button
