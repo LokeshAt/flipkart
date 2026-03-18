@@ -1,4 +1,4 @@
 console.log('lokesh')
 console.log(jack sparrow)
-console.log(money heist)
-console.log(Kohli)
+console.log(one piece)
+console.log(Dhoni)
